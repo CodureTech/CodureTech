@@ -1,16 +1,21 @@
-## Hi there 👋
+# CodureTech
 
-<!--
-**CodureTech/CodureTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 We create websites, iOS applications, and UI/UX design. Developing convenient, stylish, and modern digital solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Our Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development** → HTML, CSS, JavaScript, React, Node.js.
+- **iOS Development ** → Swift.
+- **UI/UX Design** → Figma.
+
+## 🔥 Why Choose Us?
+✅ Modern technologies 
+✅ Thoughtful design  
+✅ Clean code  
+✅ Project support  
+
+## 📩 Contact Us
+📧 Email: [contact@coduretech.com](mailto:contact@coduretech.com)  
+🌍 Website: [coduretech.dev](https://coduretech.dev)  
+
+⭐ ** Follow us and stay updated with our projects!** 🚀
