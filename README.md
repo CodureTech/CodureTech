@@ -5,7 +5,7 @@
 ## 🛠️ Our Expertise
 
 - **Web Development** → HTML, CSS, JavaScript, React, Node.js.
-- **iOS Development ** → Swift.
+- **iOS Development** → Swift.
 - **UI/UX Design** → Figma.
 
 ## 🔥 Why Choose Us?
