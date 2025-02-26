@@ -18,4 +18,4 @@
 📧 Email: [contact@coduretech.com](mailto:contact@coduretech.com)  
 🌍 Website: [coduretech.dev](https://coduretech.dev)  
 
-⭐ ** Follow us and stay updated with our projects!** 🚀
+⭐ **Follow us and stay updated with our projects!** 🚀
