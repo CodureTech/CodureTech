@@ -15,7 +15,7 @@
 ✅ Project support  
 
 ## 📩 Contact Us
-📧 Email: [contact@coduretech.com](mailto:contact@coduretech.dev)  
+📧 Email: [contact@coduretech.dev](mailto:contact@coduretech.dev)  
 🌍 Website: [coduretech.dev](https://coduretech.dev)  
 
 ⭐ **Follow us and stay updated with our projects!** 🚀
