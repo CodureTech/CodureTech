@@ -4,18 +4,22 @@
 
 ## 🛠️ Our Expertise
 
-- **Web Development** → HTML, CSS, JavaScript, React, Node.js.
-- **iOS Development** → Swift, Objective-C.
-- **UI/UX Design** → Figma.
+- **Web Development** → HTML, CSS, JavaScript, React, Node.js  
+- **iOS Development** → Swift, Objective-C  
+- **UI/UX Design** → Figma
 
 ## 🔥 Why Choose Us?
-✅ Modern technologies <br/>
+
+✅ Modern technologies  
 ✅ Thoughtful design  
 ✅ Clean code  
-✅ Project support  
+✅ Project support
 
 ## 📩 Contact Us
+
 📧 Email: [contact@coduretech.dev](mailto:contact@coduretech.dev)  
-🌍 Website: [coduretech.dev](https://coduretech.dev)
-🚀 UpWork: [coduretech.dev](https://www.upwork.com/agencies/1896237275146788280/)
+🌍 Website: [coduretech.dev](https://coduretech.dev)  
+🚀 UpWork:  
+[coduretech.dev](https://www.upwork.com/agencies/1896237275146788280/)
+
 ⭐ **Follow us and stay updated with our projects!** 🚀
