@@ -19,7 +19,6 @@
 
 📧 Email: [contact@coduretech.dev](mailto:contact@coduretech.dev)  
 🌍 Website: [coduretech.dev](https://coduretech.dev)  
-🚀 UpWork:  
-[coduretech.dev](https://www.upwork.com/agencies/1896237275146788280/)
+🚀 UpWork: [coduretech.dev](https://www.upwork.com/agencies/1896237275146788280/)
 
 ⭐ **Follow us and stay updated with our projects!** 🚀
